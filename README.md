@@ -17,3 +17,7 @@ This project is currently in the planning and UI/UX prototyping phase. The found
 The Vision
 The long-term vision for Connecto is to become an indispensable tool for personal knowledge management, helping users find the signal in the noise of their digital lives and even enabling powerful, privacy-preserving AI integrations.
 This repository contains all project documentation, design specifications, and strategic planning for Connecto.
+
+## Quick Links
+- [Project Plan](Project%20Plan.md)
+- [Todo List](Todo.md)
